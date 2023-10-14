@@ -1,0 +1,22 @@
+section(
+    --mainColor: #F96F3A;
+    --slaveColor: #F96F3A;
+    --highlightColor: #FDE677;
+    --loyaltyColor: #FFF8D4;
+    font: 14px/18px Helvetica,
+    Arial,
+    "DejaVu Sans",
+    "Liberation Sans",
+    Freesans,
+    sans-serif;
+    color: #333;
+    width: 100%;
+    margin: auto;
+    margin-top: 0 !important;
+    display: grid;
+    grid-template-columns: 320px 1fr;
+    padding: 25px 0 0 0;
+    grid-gap: 30px;
+    max-width: 1200px;
+    margin-bottom: 30px;
+)
